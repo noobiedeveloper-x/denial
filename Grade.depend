@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685099053 source:c:\users\administrator\desktop\c++ commision\grade\main.cpp
+	<iostream>
+	<iomanip>
+
